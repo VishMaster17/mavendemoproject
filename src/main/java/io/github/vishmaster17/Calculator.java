@@ -1,4 +1,4 @@
-package com.mavendemo;
+package io.github.vishmaster17;
 
 public class Calculator {
 	
